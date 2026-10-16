@@ -1,0 +1,50 @@
+{
+  "city": "Поспелова",
+  "lat": 56.0,
+  "lon": 66.0,
+  "fetched_at": "2026-10-16T09:39:16.828480+00:00",
+  "weather": {
+    "coord": {
+      "lon": 66,
+      "lat": 56
+    },
+    "weather": [
+      {
+        "id": 804,
+        "main": "Clouds",
+        "description": "пасмурно",
+        "icon": "04d"
+      }
+    ],
+    "base": "stations",
+    "main": {
+      "temp": 13.03,
+      "feels_like": 12.37,
+      "temp_min": 13.03,
+      "temp_max": 13.03,
+      "pressure": 1029,
+      "humidity": 76,
+      "sea_level": 1029,
+      "grnd_level": 1016
+    },
+    "visibility": 10000,
+    "wind": {
+      "speed": 4.24,
+      "deg": 247,
+      "gust": 8.4
+    },
+    "clouds": {
+      "all": 100
+    },
+    "dt": 1792143555,
+    "sys": {
+      "country": "RU",
+      "sunrise": 1792116498,
+      "sunset": 1792154078
+    },
+    "timezone": 18000,
+    "id": 1494326,
+    "name": "Поспелова",
+    "cod": 200
+  }
+}
